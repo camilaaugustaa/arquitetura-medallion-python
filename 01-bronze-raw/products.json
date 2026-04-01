@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nome": "Smartphone Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preço": 2999.99,
+    "marca": "Samsung",
+    "descrição": "Smartphone Android com câmera de alta resolução e bateria de longa duração.",
+    "estoque": 50,
+    "avaliação": 4.7,
+    "tags": ["smartphone", "android", "câmera"]
+  },
+  {
+    "id": 2,
+    "nome": "Notebook Dell Inspiron",
+    "categoria": "Eletrônicos",
+    "preço": 4599.99,
+    "marca": "Dell",
+    "descrição": "Notebook para trabalho e estudos com processador Intel i5 e 8GB RAM.",
+    "estoque": 30,
+    "avaliação": 4.5,
+    "tags": ["notebook", "trabalho", "estudos"]
+  },
+  {
+    "id": 3,
+    "nome": "Fone de Ouvido Bluetooth",
+    "categoria": "Eletrônicos",
+    "preço": 199.99,
+    "marca": "Sony",
+    "descrição": "Fone de ouvido sem fio com cancelamento de ruído ativo.",
+    "estoque": 100,
+    "avaliação": 4.3,
+    "tags": ["fone", "bluetooth", "cancelamento de ruído"]
+  },
+  {
+    "id": 4,
+    "nome": "Camiseta Básica",
+    "categoria": "Vestuário",
+    "preço": 49.99,
+    "marca": "Nike",
+    "descrição": "Camiseta de algodão confortável para uso diário.",
+    "estoque": 200,
+    "avaliação": 4.0,
+    "tags": ["camiseta", "algodão", "casual"]
+  },
+  {
+    "id": 5,
+    "nome": "Livro de Programação Python",
+    "categoria": "Livros",
+    "preço": 89.99,
+    "marca": "Editora Tech",
+    "descrição": "Livro completo para aprender Python do básico ao avançado.",
+    "estoque": 75,
+    "avaliação": 4.8,
+    "tags": ["livro", "python", "programação"]
+  },
+  {
+    "id": 6,
+    "nome": "Cafeteira Elétrica",
+    "categoria": "Eletrodomésticos",
+    "preço": 299.99,
+    "marca": "Philips",
+    "descrição": "Cafeteira automática com timer e função de manter aquecido.",
+    "estoque": 40,
+    "avaliação": 4.2,
+    "tags": ["cafeteira", "elétrica", "timer"]
+  },
+  {
+    "id": 7,
+    "nome": "Tênis Esportivo",
+    "categoria": "Vestuário",
+    "preço": 399.99,
+    "marca": "Adidas",
+    "descrição": "Tênis para corrida com amortecimento avançado.",
+    "estoque": 60,
+    "avaliação": 4.6,
+    "tags": ["tênis", "corrida", "amortecimento"]
+  },
+  {
+    "id": 8,
+    "nome": "Mouse Gamer RGB",
+    "categoria": "Eletrônicos",
+    "preço": 149.99,
+    "marca": "Logitech",
+    "descrição": "Mouse óptico com iluminação RGB e DPI ajustável.",
+    "estoque": 80,
+    "avaliação": 4.4,
+    "tags": ["mouse", "gamer", "RGB"]
+  },
+  {
+    "id": 9,
+    "nome": "Cadeira de Escritório",
+    "categoria": "Móveis",
+    "preço": 799.99,
+    "marca": "Ergonomic",
+    "descrição": "Cadeira ergonômica com ajuste de altura e suporte lombar.",
+    "estoque": 25,
+    "avaliação": 4.9,
+    "tags": ["cadeira", "escritório", "ergonômica"]
+  },
+  {
+    "id": 10,
+    "nome": "Relógio Inteligente",
+    "categoria": "Eletrônicos",
+    "preço": 899.99,
+    "marca": "Apple",
+    "descrição": "Relógio smartwatch com monitoramento de saúde e GPS.",
+    "estoque": 35,
+    "avaliação": 4.7,
+    "tags": ["relógio", "smartwatch", "saúde"]
+  }
+]
