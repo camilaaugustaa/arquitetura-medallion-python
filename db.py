@@ -49,17 +49,3 @@ class DB:
         self.conn.close()
 
 
-if __name__ == "__main__":
-        
-        db = DB(host="localhost", port=5432, database="postgres", user="postgres", password="postgres")
-
-        df = pd.DataFrame({"id": [1, 2, 3], "name": ["Alice", "Camila", "Vitor"]})
-
-        db.create_table("test", df)
-
-        db.insert_data("test", df)
-
-        print(db.select_all_data_from_table("test", 10))
-
-        db.close()
-    

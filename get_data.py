@@ -24,9 +24,7 @@ def get_data(cep):
   
 
 users_path = "01-bronze-raw/users.csv"
-users_def = pd.read_csv(users_path)
-
-
+users_def = pd.read_csv(users_path, encoding = "latin-1")
 
 cep_lists = users_def["cep"].tolist()
 

@@ -21,7 +21,7 @@ class NormalizeData:
             output_path = os.path.join(self.output_dir, f"{name}.parquet")
 
             if ext.lower() == '.csv':
-                df = pd.read_csv(input_path)
+                df = pd.read_csv(input_path, encoding="latin-1")
             elif ext.lower() == '.json':
                 try:
                     df = pd.read_json(input_path)
